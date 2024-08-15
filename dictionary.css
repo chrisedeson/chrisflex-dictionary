@@ -89,18 +89,21 @@ img {
 }
 
 audio {
-    width: 50%;
-    height: 30px;
+    width: 60%;
+    height: 50px;
 }
 
 .bottom {
     /* text-align: center; */
-    width: 50%;
+    width: 60%;
     margin: 0 auto;
 }
 .bottom p {
     color: white;
     text-align: left;
+    margin-top: 15px;
+    font-family: sans-serif;
+    font-size: 12px;
 }
 
 .definition {
